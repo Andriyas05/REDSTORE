@@ -1,6 +1,3 @@
-Here's a GitHub README for your "RedStore" project:
-
----
 
 # RedStore
 
@@ -33,6 +30,3 @@ RedStore is a fully responsive and modern e-commerce website designed using HTML
 
 This project is licensed under the MIT License. Feel free to use and modify it as per your requirements.
 
----
-
-Feel free to replace `yourusername` with your actual GitHub username and make any adjustments specific to your project!
